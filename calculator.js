@@ -1,3 +1,4 @@
+// A calculator to perform basic arithemtic operations
 const WELCOME_MESSAGE ="Welcome to the simple calculator"
 console.log("Welcome_message", WELCOME_MESSAGE)
 let num1 =10;

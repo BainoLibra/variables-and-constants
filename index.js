@@ -1,3 +1,4 @@
+// A variable stores data that can change during the program execution
 let name ="Libra";
 let age = 26;
 let isStudent = true;
