@@ -1,2 +1,2 @@
 let employeeUserName ="Amon";
-console.log(employeeUserName.typeof)
+console.log(typeof employeeUserName)
