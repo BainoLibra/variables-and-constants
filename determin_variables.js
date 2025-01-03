@@ -24,7 +24,7 @@ let length =firstName.length;
 console.log(length);
 let secondCharacter =lastName[1];
 console.log(`secondCharacter; ${secondCharacter}`)
-let doesContain =firstName.includes["Bai"];
-let doesContain1 =lastName.includes["Lib"];
-console.log(`doesContain; ${doesContain}`);
-console.log(`doesContain1; ${doesContain1}`);
+// let doesContain =firstName.includes["Bai"];
+// let doesContain1 =lastName.includes["Lib"];
+// console.log(`doesContain; ${doesContain}`);
+// console.log(`doesContain1; ${doesContain1}`);
